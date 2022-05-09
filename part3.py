@@ -20,3 +20,4 @@ not divisible by 3
 '''
 
 #write your code below
+integer= input("Enter an integer: ")
